@@ -1,0 +1,8 @@
+#Artifact folder
+/out/
+
+#Target Folder
+/target/
+
+#Idea folder
+/.idea/
